@@ -29,7 +29,7 @@ Any data science project can have costs and benefits, both in terms of resources
 _Benefits_
 
 * A business can learn about its products and customers.
-* If a business improves its product or website based on things learned here, customers may have a better user experience.
+* If a business improves its product or website based on things learned here, customers may have a better user experience, which could in turn lead to more and quicker conversions.
 
 _Costs_
 
