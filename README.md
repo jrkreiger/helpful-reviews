@@ -526,7 +526,7 @@ Because some of the models would have taken very long to run on my local machine
 
 You can read my blog post about the project at this link: http://jrkreiger.net/uncategorized/predicting-helpfulness-product-reviews/.
 
-View a video of my non-technical presentation here: LINK.
+View a video of my non-technical presentation here: [https://youtu.be/s16PIgC3iXk](https://youtu.be/s16PIgC3iXk).
 
 ## Authorship
 
