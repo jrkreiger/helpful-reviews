@@ -53,6 +53,7 @@ For more technical details, see the Appendix below.
 
 ------------------------------------------------------
 **See project notebook for sections 2 through 3.4.3.**
+Notebook excerpt follows.
 ------------------------------------------------------
 
 ### Train GRU with more epochs
@@ -344,7 +345,6 @@ predictions = model.predict(sample)
 sample_results = pd.concat([pd.Series([float(p) for p in predictions]), pd.Series(actual).reset_index()], axis=1)
 sample_results.columns = ['Probability_of_helpfulness', 'Original_index', 'Actual_helpfulness']
 sample_results.set_index(keys='Original_index', inplace=True)
-# sample_results['Correct'] = np.where((sample_results.Probability_of_helpfulness > 0.5 and sample_results.Actual_helpfulness == 1), 1, 0)
 sample_results
 ```
 
