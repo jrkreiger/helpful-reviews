@@ -41,7 +41,8 @@ _Costs_
 This repository contains the following files:
 
 * **helpful_reviews_classification.ipynb**: a Jupyter Notebook containing the code for this project.
-* **presentation.pdf**: PDF file containing slides from a non-technical presentation of project results
+* **additional-modeling.ipynb**: a Jupyter Notebook containing ongoing exploration of modeling options (in progress).
+* **presentation.pdf**: PDF file containing slides from a non-technical presentation of project results.
 
 The full dataset can be downloaded at [https://www.kaggle.com/snap/amazon-fine-food-reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
