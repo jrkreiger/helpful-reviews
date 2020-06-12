@@ -3,7 +3,10 @@
 data_clean.csv
 
 # R history
-.Rhistory
+/.Rhistory
+
+# Ipynb_checkpoints
+/.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
